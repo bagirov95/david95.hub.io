@@ -1,0 +1,12 @@
+https://zaurmag.ru/html5-css3/kak-vy-rovnyat-gorizontal-noe-menyu-sajta-po-tsentru.html
+<div class="wrapper row5">
+           <style>
+               .row5 {
+	               border: 1px solid red;
+                   background-color: dodgerblue;
+                   width: 900px;
+                   height: 30px;
+                   margin: auto;
+}
+           </style>
+       </div>
